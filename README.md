@@ -1,6 +1,6 @@
 # Hi there 👋
 
-19.3.2 ~ ? Computer Engineering Department, Sejong University
+19.3.2 ~ 26.2.20 Computer Engineering Department, Sejong University
 
 ---
 
