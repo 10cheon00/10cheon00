@@ -4,7 +4,7 @@
 
 ---
 
-![10cheon00's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=10cheon00)
+![10cheon00's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=th0usAnd)
 
 # Skills
 
