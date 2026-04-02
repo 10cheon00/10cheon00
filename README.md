@@ -4,16 +4,7 @@
 
 ---
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=10cheon00&show_icons=true&theme=cobalt"> 
-        </td>
-        <td>
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=th0usand"> 
-        </td>
-    </tr>    
-</table>
+![10cheon00's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=10cheon00)
 
 # Skills
 
